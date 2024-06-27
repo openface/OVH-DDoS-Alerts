@@ -6,5 +6,7 @@
     "consumerKey": ""
   },
   "webhookURL": "https://discord.gg/..",
-  "serverName": "Courvix EN-GER"
+  "serverName": "Courvix EN-GER",
+  "serverIP": "1.2.3.4",
+  "checkInterval": 120
 }
